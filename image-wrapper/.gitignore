@@ -1,0 +1,8 @@
+
+# Ignore everything
+*
+
+# But keep this .gitignore and the two allowed files
+!.gitignore
+!adversarial_wraper.py
+!requirements.txt
