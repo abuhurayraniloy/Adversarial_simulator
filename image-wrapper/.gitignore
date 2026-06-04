@@ -4,5 +4,5 @@
 
 # But keep this .gitignore and the two allowed files
 !.gitignore
-!adversarial_wraper.py
+!adversarial_warper.py
 !requirements.txt
